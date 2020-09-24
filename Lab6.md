@@ -331,12 +331,3 @@ mt_samples%>%
     ##  9 Autopsy              inch         59
     ## 10 Autopsy              left         83
     ## # ... with 200 more rows
-
-# Question 7 - extra
-
-Find your own insight in the data:
-
-Ideas:
-
-  - Interesting ngrams
-  - See if certain words are used more in some specialties then others
